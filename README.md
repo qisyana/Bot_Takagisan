@@ -1,5 +1,5 @@
 # Bot_Takagisan
-Data_Bot_Takagisan
+Data_Bot_Takagisan..
 
 ##how to use the data above
 ## follow the command below
